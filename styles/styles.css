@@ -1,0 +1,60 @@
+nav{
+    background-color: lightgrey;
+    padding: 1px;
+}
+nav ul{
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li {
+    list-style-type:none ;
+    background-color: lightgray;
+    display: inline;
+    padding: 20px;
+    margin: 10px;
+
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+nav ul li:hover
+{background-color: gray}
+
+header {
+background-color: lightgray;
+padding: 10px;
+}
+footer {
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+}
+body{
+    font-family: Verdana;
+    margin: 0;
+}
+.pagetop {
+    text-align: center;
+    margin: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.img1
+{
+
+    width: 30%;
+}
+
+
+footer {
+    background-color:gray;
+    clear: both;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+}
